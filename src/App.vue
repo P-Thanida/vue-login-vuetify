@@ -36,8 +36,6 @@
     <template>
       <v-footer dark padless>
         <v-card class="flex" app dark color="red" flat tile>
-          
-
           <v-card-text class="py-2 white--text text-center">
             {{ new Date().getFullYear() }} — <strong>Vuetify</strong>
           </v-card-text>
